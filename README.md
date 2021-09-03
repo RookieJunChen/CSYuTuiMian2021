@@ -6,7 +6,7 @@
 
 # 清华大学
 
-【报名截止: 2021.8.31】[清华大学2022年接收优秀应届本科毕业生免试攻读研究生报名通知](https://yz.tsinghua.edu.cn/info/1027/2285.htm)
+~~【报名截止: 2021.8.31】[清华大学2022年接收优秀应届本科毕业生免试攻读研究生报名通知](https://yz.tsinghua.edu.cn/info/1027/2285.htm)~~
 
 
 
@@ -94,7 +94,7 @@
 
 # 南京理工大学
 
-【报名截止: 2021.8.31】[南京理工大学关于接收“2022年推荐免试入学研究生”预报名的通知](https://gs.njust.edu.cn/zsw/18/d5/c4688a268501/page.htm)  &nbsp;&nbsp; [计算机学院接收推免生通知: 编码世界，智创未来](http://cs.njust.edu.cn/15/13/c1754a267539/page.htm)
+~~【报名截止: 2021.8.31】[南京理工大学关于接收“2022年推荐免试入学研究生”预报名的通知](https://gs.njust.edu.cn/zsw/18/d5/c4688a268501/page.htm)  &nbsp;&nbsp; [计算机学院接收推免生通知: 编码世界，智创未来](http://cs.njust.edu.cn/15/13/c1754a267539/page.htm)~~
 
 
 
@@ -110,9 +110,9 @@
 
 # 中国香港
 
-【报名截止: 2021.9.1】[香港大学计算机科学系为2022年开始的研究生课程提前招生计划](https://i.cs.hku.hk/~gradappl/index.html)
+~~【报名截止: 2021.9.1】[香港大学计算机科学系为2022年开始的研究生课程提前招生计划](https://i.cs.hku.hk/~gradappl/index.html)~~
 
-【报名截止: 2021.9.1】[香港科技大学研究生提前招生（2022年秋季入学）](https://www.cse.ust.hk/pg/admissions/recruiting/)
+~~【报名截止: 2021.9.1】[香港科技大学研究生提前招生（2022年秋季入学）~~](https://www.cse.ust.hk/pg/admissions/recruiting/)
 
 
 
