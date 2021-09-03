@@ -112,7 +112,7 @@
 
 ~~【报名截止: 2021.9.1】[香港大学计算机科学系为2022年开始的研究生课程提前招生计划](https://i.cs.hku.hk/~gradappl/index.html)~~
 
-~~【报名截止: 2021.9.1】[香港科技大学研究生提前招生（2022年秋季入学）~~](https://www.cse.ust.hk/pg/admissions/recruiting/)
+~~【报名截止: 2021.9.1】[香港科技大学研究生提前招生（2022年秋季入学）](https://www.cse.ust.hk/pg/admissions/recruiting/)~~
 
 
 
