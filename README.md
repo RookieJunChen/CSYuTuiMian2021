@@ -24,7 +24,7 @@
 
 # 上海交通大学
 
-【报名截止: 2021.9.12】[电院2022级推荐免试直升研究生招生通知](https://yjwb.seiee.sjtu.edu.cn/yjwb/info/33192.htm)
+~~【报名截止: 2021.9.12】[电院2022级推荐免试直升研究生招生通知](https://yjwb.seiee.sjtu.edu.cn/yjwb/info/33192.htm)~~
 
 
 
